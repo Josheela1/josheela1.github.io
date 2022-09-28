@@ -1,0 +1,9 @@
+div p {
+    color: rgb(255,0,0);
+
+}
+
+div > p {
+    color: blue;  
+}
+/* > is used and considered child selector */ 

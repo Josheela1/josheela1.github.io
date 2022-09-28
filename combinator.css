@@ -1,0 +1,4 @@
+/*descendant selector */
+div p {
+    color:rgb(255,0,0);
+}

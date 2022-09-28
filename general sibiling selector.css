@@ -1,0 +1,17 @@
+div p {
+    color: rgb(255,0,0);
+
+}
+
+div > p {
+    color: blue;  
+}
+
+div + p {
+    color: aqua;
+
+}
+div ~ p {
+    color: violet;
+
+}

@@ -1,0 +1,10 @@
+.static {
+    position: static;
+    bottom 0;
+}
+/*to give meaning to postion we have to use few more */
+.fixed {
+    position: fixed;
+    top:0; /* or bottom=0; */
+}
+*/ when we have large content it makes difference */
